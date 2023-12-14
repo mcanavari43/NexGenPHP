@@ -22,7 +22,7 @@ require_once('conf/globalConfig.php');
     <!-- -----------------------------BODY----------------------------- -->
 
     <div class="contentCustomized animate__animated animate__bounceIn">
-        <div class="container containerCustomized mt-8">
+        <div class="container containerCustomized mt-5">
             <h1>Disculpe las molestias</h1>
 
         </div>
@@ -30,7 +30,7 @@ require_once('conf/globalConfig.php');
         <div class="container containerCustomized mt-3">
 
             <div class="error-box">
-                <img src="img/error.gif"></img>
+                <img src="img/assets/error.gif"></img>
                 <div class="error-text">
                     <p>Estamos realizando algunas tareas de mantenimiento.</p>
                     <p>Por favor regrese en unos minutos</p>
@@ -54,7 +54,7 @@ require_once('conf/globalConfig.php');
     <!-- ---IMPORT WHATSAPP--- -->
 
     <!-- ---IMPORT JS--- -->
-    <?php require('js/_bootstrap.js') ?>
+    <?php require('js/_customScripts.php') ?>
     <!-- ---IMPORT JS--- -->
 </body>
 

@@ -6,13 +6,13 @@
 - [@ErikFlor](https://github.com/erikfacundo)
 
 ## 🚀 Desarrollo:
-Trabajo practico 2 realizado en PHP con conexion a MYSQL.
+TP FINAL realizado en PHP con conexion a MYSQL.
 
 ## 🛠 Skills:
-PHP, MYSql, Bootstrap, CSS, HTML, Javascript.
+PHP, MYSql, Bootstrap, CSS, HTML, Javascript & Sweet alert
 
 
-## 🛠 Config:
+## 🔧 Config:
 -Validar que la db y ruta estan correctamente actualizadas en el archivo __conf/globalConfig.php__ en la linea 10:
 ```bash
 define('BASE_URL', 'http://localhost:'.$puerto.'/TP2_GRUPO_A/proyecto/');
@@ -29,5 +29,5 @@ $puertoParaInvitado=''; // <----Completar puerto en caso de no poder conectarse
 ```
 
 
-## ReadMe:
+## 📝 ReadMe:
 Readme document created using [Readme SO](https://readme.so/es). Credits by [Katherine Oelsner](https://github.com/octokatherine).
